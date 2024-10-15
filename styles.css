@@ -1,0 +1,10 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.footer {
+    display: flex; 
+    justify-content: space-between;
+}
